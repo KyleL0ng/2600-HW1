@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, our names are Kyle Long and William Garcia and we are working on hw3 together
+=======
+Hello our names are Kyle Long and Aidan Sanders and we are working on hw3 together, we started working together on (09/26/2022)
+>>>>>>> Aidan_Sanders_Branch
